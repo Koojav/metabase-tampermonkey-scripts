@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.4
 // @description  Button next to "Variable type": sets Field Filter, picks schema (1st part of name) and searches (2nd part)
+// @author       Koojav
 // @match        https://*/*
 // @run-at       document-idle
 // @grant        none
