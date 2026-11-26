@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      5.0
 // @description  "Smooth Everything" button with configurable style options, applied to all series
+// @author       Koojav
 // @match        https://*/*
 // @run-at       document-idle
 // @grant        none
